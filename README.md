@@ -1,10 +1,10 @@
 # ARPA
-Programa de retroalimentación para la autorrealización
-codigo del conceptual del prototipo de sofware en Feria de Proyectos y Prototipos 2021-01s
+Aplicacion de retroalimentación para la autorrealización
+código del conceptual del prototipo de software en Feria de Proyectos y Prototipos 2021-01s
 
 Universidad Nacional de Colombia
 
-integrantes:
+Integrantes:
 
 
 Felipe Páez González 
